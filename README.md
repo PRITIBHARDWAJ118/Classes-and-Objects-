@@ -13,6 +13,7 @@ SYNTAX:
 class Car{---};
 ### Object
 An object is an instance of a class. When a class is defined, no memory is allocated until an object of that class is created. Each object has its own set of data (attributes) defined by the class.
+
 SYNTAX:
 Car myCar;// class is car and myCar is an object of class Car 
 
